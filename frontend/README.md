@@ -41,7 +41,7 @@ backend/
 
 ## Clone the repository
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/iamkeerthid/equipment-tracker.git
 cd equipment-tracker
 
 ## Start Backend
