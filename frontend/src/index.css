@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  /* Set background image */
+  background-image: url("D:\equipment-tracker\equipment-tracker\frontend\public\Equipment_Tracker.jpeg");
+  background-size: cover;       /* Cover whole screen */
+  background-position: center;  /* Center image */
+  background-repeat: no-repeat; /* No repeat */
+  height: 100vh;                /* Full viewport height */
+  width: 100%;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
